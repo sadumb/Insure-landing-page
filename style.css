@@ -17,7 +17,6 @@ h1, h2, h3 {
   max-width: 100%;
   margin: 0 auto;
   width: 100%;
-  padding: 20px;
 }
 
 .flex {
@@ -103,7 +102,7 @@ nav li a {
   color: #837d87;
   text-transform: uppercase;
   text-decoration: none;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 header * {
@@ -294,6 +293,7 @@ footer .container-list .footer-menu li a {
   color: #2d2640;
   text-transform: uppercase;
   text-decoration: none;
+  font-size: 0.85rem;
 }
 
 footer .container-list .footer-menu h3 {
